@@ -13,4 +13,5 @@
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,astro,mysql,sqlite,mongodb,redis,tailwind,docker,linux,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,astro,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,redis,tailwind,docker,linux,prisma)](https://skillicons.dev)
