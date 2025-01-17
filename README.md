@@ -9,7 +9,7 @@
 - Estoy estudiando **Inglés** y **Japones**.
 - Llevo programando en **JS** y **TS** desde hace 3 años.
 - Me encanta crear proyectos de **código abierto**.
-- Contáctame en [lehenna@outlook.com](mailto:lehenna@outlook.com).
+- Contáctame en [hello@lehenna.com](mailto:hello@lehenna.com).
 
 ## Mis Habilidades:
 
