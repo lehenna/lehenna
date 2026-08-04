@@ -7,7 +7,7 @@
 
 - Actualmente estudio **ingenieria de software**.
 - Estoy estudiando **Inglés** y **Japones**.
-- Llevo programando en **JS** y **TS** desde hace 3 años.
+- Llevo programando en **JS** y **TS** desde 2021.
 - Me encanta crear proyectos de **código abierto**.
 - Contáctame en [hello@lehenna.com](mailto:hello@lehenna.com).
 
